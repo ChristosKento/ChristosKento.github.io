@@ -6,11 +6,11 @@
 ###### Recovery 
 
 
-## Horizontal Rules 
+## DON'T FORGET
 
 ---
 
 
-## Emphasis 
+## Important 
 
 **Make sure you go to the gym**
