@@ -10,8 +10,8 @@
 </head>
 
 <body>
-    <h1>Welcome to My Webpage</h1>
+    <h1>My first website</h1>
     
-    <p>This is a simple webpage example that contains a title, a heading, and a paragraph. You can customize this template to fit your needs, and it’s a great starting point for learning basic HTML and CSS.</p>
+    <p>This is my first time using HTML to create a webpage. I have been learning through my online course about the basics of coding. However, this is me trying to atually code and to make somewhat of a decent page. I will just keep adding more code so hopefully the page becomes more advanced.</p>
 </body>
 </html>
