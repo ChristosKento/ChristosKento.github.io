@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<Title>
-  Christos is the best  <!--This is the title -->
-</Title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <!-- The Title of the Page -->
+    <title>My Awesome GitHub Page</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
 <body>
-<h1>About my life and my story so far</h1>
-<p>In this paragraph you will learn about my life up until now and all of the stories that I have to share with everyone</p>
+    <h1>Welcome to My Website</h1>
+    <p>This is an example of how the title tag works.</p>
+</body>
+</html>
+
