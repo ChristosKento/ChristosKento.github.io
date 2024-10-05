@@ -34,9 +34,9 @@
 
 <h2>Projects I would like to take on</h2>
 
-<p>Blogging 
-Online gym business 
-Clothing </p>
-    
+<p>Blogging</p>
+<p>Online gym training</p>
+<p>Clothing brand but start with POD</p>
+<p>Build and keep working on my personal brand which links with all my other projects</p>
 </body>
 </html>
