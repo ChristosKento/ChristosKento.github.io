@@ -34,7 +34,6 @@
 <div>As of 05/10/24 it hasn't even been a week since I started to learn how to code. To be honest, this page isn't being constrcuted from what I've learned from the course but rather trial and error, and using online resources. </div>
 
 <style>
-     <link href="https://fonts.googleapis.com/css2?family=Gagalin&display=swap" rel="stylesheet">
 
 h2 {
     color: grey;
