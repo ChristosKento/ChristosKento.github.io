@@ -37,10 +37,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Gagalin&display=swap" rel="stylesheet">
 
 h2 {
-            color: grey;
-            font-family: 'Gagalin', sans-serif;
-            font-size: 20px;
-        }
+    color: grey;
+    font-family: 'Gagalin', sans-serif;
+    font-size: 20px;
+}
+
+.p2 {
+    color: blue;                     
+    font-family: 'Arial', sans-serif; 
+    font-size: 18px;                 
+}
+
 
 </style>
 <h2>Projects I would like to take on</h2>
