@@ -30,11 +30,11 @@
     <h1>My first website</h1>
     
     <p>This is my first time using HTML to create a webpage. I have been learning through my online course about the basics of coding. However, this is me trying to atually code and to make somewhat of a decent page. I will just keep adding more code so hopefully the page becomes more advanced.</p>
+    
 <div>As of 05/10/24 it hasn't even been a week since I started to learn how to code. To be honest, this page isn't being constrcuted from what I've learned from the course but rather trial and error, and using online resources. </div>
 
 <style>
-    
-    <link href="https://fonts.googleapis.com/css2?family=Gagalin&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Gagalin&display=swap" rel="stylesheet">
 
 h2 {
     color: grey;
@@ -47,8 +47,6 @@ h2 {
     font-family: 'Arial', sans-serif; 
     font-size: 18px;                 
 }
-
-
 </style>
 <h2>Projects I would like to take on</h2>
 
