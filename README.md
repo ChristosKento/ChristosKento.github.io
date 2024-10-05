@@ -32,9 +32,11 @@
     <p>This is my first time using HTML to create a webpage. I have been learning through my online course about the basics of coding. However, this is me trying to atually code and to make somewhat of a decent page. I will just keep adding more code so hopefully the page becomes more advanced.</p>
 <div>As of 05/10/24 it hasn't even been a week since I started to learn how to code. To be honest, this page isn't being constrcuted from what I've learned from the course but rather trial and error, and using online resources. </div>
 
-<h2>Get to know me</h2>
+<h2>Projects I would like to take on</h2>
 
-
+<p>Blogging 
+Online gym business 
+Clothing </p>
     
 </body>
 </html>
