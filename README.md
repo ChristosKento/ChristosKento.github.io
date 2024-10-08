@@ -58,7 +58,7 @@ h2 {
 <h3>Blogging</h3>
 <style>
 h3 {
-color: pink
+color: pink;
 font-family: 'Helvetica', sans-serif;
 font-size: 40px; 
 }     
