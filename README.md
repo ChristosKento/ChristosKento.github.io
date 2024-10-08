@@ -62,6 +62,7 @@ h2 {
             alert('Hello, welcome to my blog!');
         }
     </script>
+<button onclick="showMessage()">Click me for a welcome message</button>
 
 <style>
 h3 {
