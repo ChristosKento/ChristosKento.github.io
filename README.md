@@ -56,6 +56,15 @@ h2 {
 <p>-Build and keep working on my personal brand which links with all my other projects</p>
 
 <h3>Blogging</h3>
+
+<script>
+        function showMessage() {
+            alert('Hello, welcome to my blog!');
+        }
+    </script>
+    
+    <button onclick="showMessage()"
+
 <style>
 h3 {
 color: pink;
