@@ -60,7 +60,7 @@ h2 {
 h3 {
 color: pink;
 font-family: 'Helvetica', sans-serif;
-font-size: 40px; 
+font-size: 40px; !important;
 }     
 </style>
 
