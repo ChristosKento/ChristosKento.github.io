@@ -54,5 +54,16 @@ h2 {
 <p>Online gym training</p>
 <p>Clothing brand but start with POD</p>
 <p>Build and keep working on my personal brand which links with all my other projects</p>
+
+<h3>Blogging</h3>
+<style>
+h3 {
+color: pink
+font-family: 'Helvetica', sans-serif;
+font-size: 40px; 
+}     
+</style>
+
+
 </body>
 </html>
