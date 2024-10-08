@@ -56,7 +56,7 @@ h2 {
 <p>-Build and keep working on my personal brand which links with all my other projects</p>
 
 <h3>Blogging</h3>
-
+<body>
 <script>
         function showMessage() {
             alert('Hello, welcome to my blog!');
@@ -71,7 +71,7 @@ font-family: 'Helvetica', sans-serif;
 font-size: 40px !important;
 }     
 </style>
-
+<body/>
 
 </body>
 </html>
