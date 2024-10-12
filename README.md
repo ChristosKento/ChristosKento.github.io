@@ -69,5 +69,8 @@
             alert('Hello, welcome to my blog!');
         }
     </script>
+    <select name="Brand">
+    <option value="Nike">nike</option>
+    </select>
 </body>
 </html>
