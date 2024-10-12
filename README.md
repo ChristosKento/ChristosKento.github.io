@@ -68,9 +68,14 @@
         function showMessage() {
             alert('Hello, welcome to my blog!');
         }
+        <div>
+        
     </script>
     <select name="Brand">
     <option value="Nike">nike</option>
+    <option value="Adidas">adidas</option>
+    <option value="New Balance">new balance</option>
+    <option value="Puma">puma</option>
     </select>
 </body>
 </html>
